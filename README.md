@@ -6,4 +6,4 @@ Complete PHP Login &amp; Register using PDO MySQL
 
 Here, I'm trying to include full login, registration, forgot password system. It's the basic PDO MySQl code. You can make any kind of login, registration system by this code.
 
-Demo: https://youtu.be/0L--DdkRmeg
+Demo: https://youtu.be/SgZNYrz9AWE
